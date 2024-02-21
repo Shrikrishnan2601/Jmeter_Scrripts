@@ -1,0 +1,7 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+UserReg_T01_IndexPage,10,134,131,143,143,146,127,146,0.000%,.03835,0.23,0.09
+UserReg_T02_ClkSignUpNow,10,47,47,49,49,74,39,74,0.000%,.03853,0.10,0.02
+UserReg_T03_SubmitRegForm,10,47,47,51,51,61,41,61,0.000%,.03848,0.05,0.03
+UserReg_T04_ClkContinueToLogin,10,228,226,232,232,243,224,243,0.000%,.03854,0.14,0.07
+UserReg_T05_SignOff,10,130,129,134,134,135,127,135,0.000%,.03838,0.10,0.04
+TOTAL,50,117,128,226,228,243,39,243,0.000%,.17542,0.57,0.22
